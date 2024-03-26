@@ -1,1 +1,5 @@
-
+Cloud computing consits IAAS , PASS , SAAS
+IAAS - INFRASTRUCTRE AS A SERVICE
+PAAS - PLATFORM AS A SERVICE
+SAAS - SOFTWARE AS A SERVICE
+Also hypervisor is a main compnent over here. Hypervisor is a software which provides cloud physical hardware to users like us through virtual machines.
